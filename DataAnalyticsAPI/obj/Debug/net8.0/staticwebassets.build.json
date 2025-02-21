@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VkWDDrH7SyOlxybkL0g0lPZB4OhczvkWnZ1KJV/bPRY=",
+  "Source": "DataAnalyticsAPI",
+  "BasePath": "_content/DataAnalyticsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
